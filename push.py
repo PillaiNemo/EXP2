@@ -1,0 +1,2 @@
+n = "push"
+print(n)
